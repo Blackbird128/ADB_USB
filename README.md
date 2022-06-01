@@ -1,6 +1,6 @@
 # ADB_USB
 
-Simple PCB to convert vintage Apple adb keyboards to usb 
+Simple PCB to convert vintage Apple Macintosh adb keyboards to USB
 
 BOM:
 
